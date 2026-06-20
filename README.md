@@ -80,9 +80,7 @@ $ ./connect.sh
 </p>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MirzaSakiroglu&show_icons=true&theme=tokyonight&hide_border=true" width="32%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MirzaSakiroglu&theme=tokyonight&hide_border=true" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaSakiroglu&layout=compact&theme=tokyonight&hide_border=true" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MirzaSakiroglu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
 </p>
 <p align="center">
   <em>$ echo "Thanks for stopping by — always open to collaborating on research-grade AI infra."</em>
