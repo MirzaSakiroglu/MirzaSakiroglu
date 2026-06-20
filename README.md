@@ -79,9 +79,18 @@ $ ./connect.sh
   <a href="https://orcid.org/0009-0001-6192-5678" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
 </p>
 <br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MirzaSakiroglu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
-</p>
-<p align="center">
-  <em>$ echo "Thanks for stopping by — always open to collaborating on research-grade AI infra."</em>
-</p>
+
+```bash
+mirza@dev:~$ ./visitor_count.sh
+```
+ 
+<div align="center">
+![Visitor Count](https://komarev.com/ghpvc/?username=MirzaSakiroglu&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge)
+ 
+</div>
+<div align="center">
+```bash
+mirza@dev:~$ echo "Thanks for stopping by — always open to collaborating on research-grade AI infra."
+```
+ 
+</div>
