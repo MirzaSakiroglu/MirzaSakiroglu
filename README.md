@@ -59,6 +59,7 @@ $ cat skills.json
 $ cat publications.txt
 ```
 
+- 📄 Smart Adaptive Zoom Algorithm and GPU Hybrid Optimization of Wi-Fi Signal Propagation in Complex Indoor Environments — *Adıyaman Üniversitesi Mühendislik Bilimleri Dergisi* (2026) — [10.54365/adyumbd.1903112](https://doi.org/10.54365/adyumbd.1903112)
 - 📄 Sainfoin Regrowth Rating Scale SOP — [10.5281/zenodo.12811060](https://doi.org/10.5281/zenodo.12811060)
 - 📄 PGC Plot Image Acquisition SOP — [10.5281/zenodo.8428810](https://doi.org/10.5281/zenodo.8428810)
 - 📄 Maize Stand Count SOP — [10.5281/zenodo.13738096](https://doi.org/10.5281/zenodo.13738096)
