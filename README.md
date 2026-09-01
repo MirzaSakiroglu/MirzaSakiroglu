@@ -23,12 +23,23 @@ fun_fact:  2nd place nationwide - SiberVatan CTF, Turkey
 $ ls ./projects
 ```
 
-| Project | Description |
-|---|---|
-| **Emergency Drone Coordination System** | Multi-threaded C client-server for autonomous drone swarms, using TCP sockets + thread-safe IPC |
-| **NSL Motors Tuning Services** | Full-stack vehicle inventory & commerce platform built with Spring Boot |
-| **KarGO Cargo Tracking System** | Python logistics app with a Qt GUI for real-time tracking |
-| **GraphPlotter** | Desktop app for interactive 2D mathematical function visualization |
+```yaml
+emergency_drone_system:
+  type:        "Multi-threaded C Client-Server"
+  description: "Autonomous drone swarms using TCP sockets + thread-safe IPC"
+
+nsl_motors:
+  type:        "Full-Stack Web App"
+  description: "Vehicle inventory & commerce platform built with Spring Boot"
+
+kargo_tracking:
+  type:        "Python Desktop App"
+  description: "Logistics application featuring a Qt GUI for real-time tracking"
+
+graph_plotter:
+  type:        "Desktop Tool"
+  description: "Interactive 2D mathematical function visualization app"
+```
 
 ```bash
 $ cat skills.json
@@ -49,26 +60,44 @@ $ cat skills.json
 $ cat research.log
 ```
 
-> **AI & Computational Research**
-> - Research experience spanning computer vision, Wi-Fi signal propagation, deep learning infrastructure, and scientific data workflows.
-> - Built and configured high-performance computing infrastructure and data pipelines for AI research.
-> - Authored 7+ SOPs meeting US Department of Energy reproducibility standards for federally funded research.
-> - Published peer-reviewed research on adaptive zoom algorithms and GPU-accelerated Wi-Fi signal propagation optimization.
+```yaml
+domain:          AI & Computational Research
+scope:           Computer vision, Wi-Fi signal propagation, deep learning infrastructure, scientific data workflows
+infrastructure:  Built and configured high-performance computing infra and data pipelines for AI research
+standards:       Authored 7+ SOPs meeting US Department of Energy reproducibility standards for federally funded research
+publication:     Published peer-reviewed research on adaptive zoom algorithms and GPU-accelerated Wi-Fi signal propagation optimization
+```
 
 ```bash
 $ cat publications.txt
 ```
 
-- 📄 Smart Adaptive Zoom Algorithm and GPU Hybrid Optimization of Wi-Fi Signal Propagation in Complex Indoor Environments — *Adıyaman Üniversitesi Mühendislik Bilimleri Dergisi* (2026) — [10.54365/adyumbd.1903112](https://doi.org/10.54365/adyumbd.1903112)
-- 📄 Sainfoin Regrowth Rating Scale SOP — [10.5281/zenodo.12811060](https://doi.org/10.5281/zenodo.12811060)
-- 📄 PGC Plot Image Acquisition SOP — [10.5281/zenodo.8428810](https://doi.org/10.5281/zenodo.8428810)
-- 📄 Maize Stand Count SOP — [10.5281/zenodo.13738096](https://doi.org/10.5281/zenodo.13738096)
-- 📄 Collar Installation for LI-COR 8200 Smart Chamber SOP — [10.5281/zenodo.13737988](https://doi.org/10.5281/zenodo.13737988)
-- 📄 Data Extraction From LI-COR LI-7820 SOP — [10.5281/zenodo.13737961](https://doi.org/10.5281/zenodo.13737961)
-- 📄 LI-COR LI-7820 Gas Analyzer and Smart Chamber SOP — [10.5281/zenodo.13737844](https://doi.org/10.5281/zenodo.13737844)
-- 📄 PGC Grass Suppression Visual Rating Scale SOP — [10.5281/zenodo.13738134](https://doi.org/10.5281/zenodo.13738134)
+```yaml
+peer_reviewed_paper:
+  title:  "Smart Adaptive Zoom Algorithm and GPU Hybrid Optimization of Wi-Fi Signal Propagation in Complex Indoor Environments"
+  venue:  "Adıyaman Üniversitesi Mühendislik Bilimleri Dergisi (2026)"
+  doi:    "[https://doi.org/10.54365/adyumbd.1903112](https://doi.org/10.54365/adyumbd.1903112)"
 
-> Full list & ORCID record: [orcid.org/0009-0001-6192-5678](https://orcid.org/0009-0001-6192-5678)
+standard_operating_procedures:
+  - name: "Sainfoin Regrowth Rating Scale SOP"
+    doi:  "[https://doi.org/10.5281/zenodo.12811060](https://doi.org/10.5281/zenodo.12811060)"
+  - name: "PGC Plot Image Acquisition SOP"
+    doi:  "[https://doi.org/10.5281/zenodo.8428810](https://doi.org/10.5281/zenodo.8428810)"
+  - name: "Maize Stand Count SOP"
+    doi:  "[https://doi.org/10.5281/zenodo.13738096](https://doi.org/10.5281/zenodo.13738096)"
+  - name: "Collar Installation for LI-COR 8200 Smart Chamber SOP"
+    doi:  "[https://doi.org/10.5281/zenodo.13737988](https://doi.org/10.5281/zenodo.13737988)"
+  - name: "Data Extraction From LI-COR LI-7820 SOP"
+    doi:  "[https://doi.org/10.5281/zenodo.13737961](https://doi.org/10.5281/zenodo.13737961)"
+  - name: "LI-COR LI-7820 Gas Analyzer and Smart Chamber SOP"
+    doi:  "[https://doi.org/10.5281/zenodo.13737844](https://doi.org/10.5281/zenodo.13737844)"
+  - name: "PGC Grass Suppression Visual Rating Scale SOP"
+    doi:  "[https://doi.org/10.5281/zenodo.13738134](https://doi.org/10.5281/zenodo.13738134)"
+
+archive_record:
+  profile: "orcid.org/0009-0001-6192-5678"
+  url:     "[https://orcid.org/0009-0001-6192-5678](https://orcid.org/0009-0001-6192-5678)"
+```
 
 ```bash
 $ ./connect.sh
