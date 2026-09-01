@@ -3,7 +3,7 @@ Mirza Şakiroğlu
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Software+%26+Systems+Developer;AI+%26+Deep+Learning+Infrastructure;Building+and+Researching+Real+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4AF262&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Software+%26+Systems+Developer;AI+%26+Deep+Learning+Infrastructure;Building+and+Researching+Real+Systems" alt="Typing SVG" />
 </p>
 
 ```bash
