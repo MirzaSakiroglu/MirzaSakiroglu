@@ -76,27 +76,27 @@ $ cat publications.txt
 peer_reviewed_paper:
   title:  "Smart Adaptive Zoom Algorithm and GPU Hybrid Optimization of Wi-Fi Signal Propagation in Complex Indoor Environments"
   venue:  "Adıyaman Üniversitesi Mühendislik Bilimleri Dergisi (2026)"
-  doi:    "[https://doi.org/10.54365/adyumbd.1903112](https://doi.org/10.54365/adyumbd.1903112)"
+  doi:    "<a href='[https://doi.org/10.54365/adyumbd.1903112](https://doi.org/10.54365/adyumbd.1903112)' target='_blank'>10.54365/adyumbd.1903112</a>"
 
 standard_operating_procedures:
   - name: "Sainfoin Regrowth Rating Scale SOP"
-    doi:  "[https://doi.org/10.5281/zenodo.12811060](https://doi.org/10.5281/zenodo.12811060)"
+    doi:  "<a href='[https://doi.org/10.5281/zenodo.12811060](https://doi.org/10.5281/zenodo.12811060)' target='_blank'>10.5281/zenodo.12811060</a>"
   - name: "PGC Plot Image Acquisition SOP"
-    doi:  "[https://doi.org/10.5281/zenodo.8428810](https://doi.org/10.5281/zenodo.8428810)"
+    doi:  "<a href='[https://doi.org/10.5281/zenodo.8428810](https://doi.org/10.5281/zenodo.8428810)' target='_blank'>10.5281/zenodo.8428810</a>"
   - name: "Maize Stand Count SOP"
-    doi:  "[https://doi.org/10.5281/zenodo.13738096](https://doi.org/10.5281/zenodo.13738096)"
+    doi:  "<a href='[https://doi.org/10.5281/zenodo.13738096](https://doi.org/10.5281/zenodo.13738096)' target='_blank'>10.5281/zenodo.13738096</a>"
   - name: "Collar Installation for LI-COR 8200 Smart Chamber SOP"
-    doi:  "[https://doi.org/10.5281/zenodo.13737988](https://doi.org/10.5281/zenodo.13737988)"
+    doi:  "<a href='[https://doi.org/10.5281/zenodo.13737988](https://doi.org/10.5281/zenodo.13737988)' target='_blank'>10.5281/zenodo.13737988</a>"
   - name: "Data Extraction From LI-COR LI-7820 SOP"
-    doi:  "[https://doi.org/10.5281/zenodo.13737961](https://doi.org/10.5281/zenodo.13737961)"
+    doi:  "<a href='[https://doi.org/10.5281/zenodo.13737961](https://doi.org/10.5281/zenodo.13737961)' target='_blank'>10.5281/zenodo.13737961</a>"
   - name: "LI-COR LI-7820 Gas Analyzer and Smart Chamber SOP"
-    doi:  "[https://doi.org/10.5281/zenodo.13737844](https://doi.org/10.5281/zenodo.13737844)"
+    doi:  "<a href='[https://doi.org/10.5281/zenodo.13737844](https://doi.org/10.5281/zenodo.13737844)' target='_blank'>10.5281/zenodo.13737844</a>"
   - name: "PGC Grass Suppression Visual Rating Scale SOP"
-    doi:  "[https://doi.org/10.5281/zenodo.13738134](https://doi.org/10.5281/zenodo.13738134)"
+    doi:  "<a href='[https://doi.org/10.5281/zenodo.13738134](https://doi.org/10.5281/zenodo.13738134)' target='_blank'>10.5281/zenodo.13738134</a>"
 
 archive_record:
   profile: "orcid.org/0009-0001-6192-5678"
-  url:     "[https://orcid.org/0009-0001-6192-5678](https://orcid.org/0009-0001-6192-5678)"
+  url:     "<a href='[https://orcid.org/0009-0001-6192-5678](https://orcid.org/0009-0001-6192-5678)' target='_blank'>orcid.org/0009-0001-6192-5678</a>"
 ```
 
 ```bash
