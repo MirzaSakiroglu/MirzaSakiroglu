@@ -12,10 +12,10 @@ $ whoami
 
 ```yaml
 name:      Mirza Şakiroğlu
-role:      Junior Computer Engineer
+role:      Senior Computer Engineering Student
 location:  Salina, Kansas, US
 education: B.S. Computer Engineering @ Istanbul Medeniyet University (2023 - 2027)
-focus:     Network Engineer | Deep Learning Infra | Systems Architecture
+focus:     Network Engineer | Deep Learning Infrastructures
 fun_fact:  2nd place nationwide - SiberVatan CTF, Turkey
 ```
 
@@ -23,22 +23,31 @@ fun_fact:  2nd place nationwide - SiberVatan CTF, Turkey
 $ cat experience.log
 ```
 
-> **Research Assistant & Software Developer** — The Land Institute (Jun 2024 – Sept 2025)
-> - Built and configured a high-performance Ubuntu Server for AI/deep learning research, alongside a Deep Learning Engineer — from hardware procurement to full software setup.
-> - Authored 7+ SOPs meeting US Department of Energy reproducibility standards for federally funded research.
-> - Developed and maintained `pgcconsortium.org` for collaborative data visualization across international research teams.
-> - Built data pipelines bridging LI-COR lab instrumentation with digital research workflows.
+> **Computer Field Engineer** — BC Tech Pro (Jul 2026 – Sept 2026)
+>
+> -Conducted Dell and Lenovo certified hardware and software repairs, independently troubleshooting and resolving complex technical issues for clients on-site.
+
+> **Computer Engineering Intern - Soil Ecology** — The Land Institute (Jul 2026 – Sept 2026)
+>
+> -Engineered a pre-processing step for root scans to minimize the need for manual human input during pre-RhizoVision editing, successfully streamlining the root scan data extraction process.
+
+> **Research Assistant & Software Developer - Perennial Legumes** — The Land Institute (Jun 2024 – Sept 2025)
+>
+> -Built and configured a high-performance Ubuntu Server for AI/deep learning research, alongside a Deep Learning Engineer — from hardware procurement to full software setup.
+> -Authored 7+ SOPs meeting US Department of Energy reproducibility standards for federally funded research.
+> -Developed and maintained `pgcconsortium.org` for collaborative data visualization across international research teams.
+> -Built data pipelines bridging LI-COR lab instrumentation with digital research workflows.
 
 ```bash
 $ ls ./projects
 ```
 
-| Project | Description |
-|---|---|
+| Project                                    | Description                                                                                     |
+| ------------------------------------------ | ----------------------------------------------------------------------------------------------- |
 | 🚁 **Emergency Drone Coordination System** | Multi-threaded C client-server for autonomous drone swarms, using TCP sockets + thread-safe IPC |
-| 🚗 **NSL Motors Tuning Services** | Full-stack vehicle inventory & commerce platform built with Spring Boot |
-| 📦 **KarGO Cargo Tracking System** | Python logistics app with a Qt GUI for real-time tracking |
-| 📈 **GraphPlotter** | Desktop app for interactive 2D mathematical function visualization |
+| 🚗 **NSL Motors Tuning Services**          | Full-stack vehicle inventory & commerce platform built with Spring Boot                         |
+| 📦 **KarGO Cargo Tracking System**         | Python logistics app with a Qt GUI for real-time tracking                                       |
+| 📈 **GraphPlotter**                        | Desktop app for interactive 2D mathematical function visualization                              |
 
 ```bash
 $ cat skills.json
@@ -59,14 +68,14 @@ $ cat skills.json
 $ cat publications.txt
 ```
 
-- 📄 Smart Adaptive Zoom Algorithm and GPU Hybrid Optimization of Wi-Fi Signal Propagation in Complex Indoor Environments — *Adıyaman Üniversitesi Mühendislik Bilimleri Dergisi* (2026) — [10.54365/adyumbd.1903112](https://doi.org/10.54365/adyumbd.1903112)
-- 📄 Sainfoin Regrowth Rating Scale SOP — [10.5281/zenodo.12811060](https://doi.org/10.5281/zenodo.12811060)
-- 📄 PGC Plot Image Acquisition SOP — [10.5281/zenodo.8428810](https://doi.org/10.5281/zenodo.8428810)
-- 📄 Maize Stand Count SOP — [10.5281/zenodo.13738096](https://doi.org/10.5281/zenodo.13738096)
-- 📄 Collar Installation for LI-COR 8200 Smart Chamber SOP — [10.5281/zenodo.13737988](https://doi.org/10.5281/zenodo.13737988)
-- 📄 Data Extraction From LI-COR LI-7820 SOP — [10.5281/zenodo.13737961](https://doi.org/10.5281/zenodo.13737961)
-- 📄 LI-COR LI-7820 Gas Analyzer and Smart Chamber SOP — [10.5281/zenodo.13737844](https://doi.org/10.5281/zenodo.13737844)
-- 📄 PGC Grass Suppression Visual Rating Scale SOP — [10.5281/zenodo.13738134](https://doi.org/10.5281/zenodo.13738134)
+* 📄 Smart Adaptive Zoom Algorithm and GPU Hybrid Optimization of Wi-Fi Signal Propagation in Complex Indoor Environments — *Adıyaman Üniversitesi Mühendislik Bilimleri Dergisi* (2026) — [10.54365/adyumbd.1903112](https://doi.org/10.54365/adyumbd.1903112)
+* 📄 Sainfoin Regrowth Rating Scale SOP — [10.5281/zenodo.12811060](https://doi.org/10.5281/zenodo.12811060)
+* 📄 PGC Plot Image Acquisition SOP — [10.5281/zenodo.8428810](https://doi.org/10.5281/zenodo.8428810)
+* 📄 Maize Stand Count SOP — [10.5281/zenodo.13738096](https://doi.org/10.5281/zenodo.13738096)
+* 📄 Collar Installation for LI-COR 8200 Smart Chamber SOP — [10.5281/zenodo.13737988](https://doi.org/10.5281/zenodo.13737988)
+* 📄 Data Extraction From LI-COR LI-7820 SOP — [10.5281/zenodo.13737961](https://doi.org/10.5281/zenodo.13737961)
+* 📄 LI-COR LI-7820 Gas Analyzer and Smart Chamber SOP — [10.5281/zenodo.13737844](https://doi.org/10.5281/zenodo.13737844)
+* 📄 PGC Grass Suppression Visual Rating Scale SOP — [10.5281/zenodo.13738134](https://doi.org/10.5281/zenodo.13738134)
 
 > Full list & ORCID record: [orcid.org/0009-0001-6192-5678](https://orcid.org/0009-0001-6192-5678)
 
