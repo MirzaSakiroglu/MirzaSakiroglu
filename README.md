@@ -25,18 +25,18 @@ $ cat experience.log
 
 > **Computer Field Engineer** — BC Tech Pro (Jul 2026 – Sept 2026)
 >
-> -Conducted Dell and Lenovo certified hardware and software repairs, independently troubleshooting and resolving complex technical issues for clients on-site.
+> * Conducted Dell and Lenovo certified hardware and software repairs, independently troubleshooting and resolving complex technical issues for clients on-site.
 
 > **Computer Engineering Intern - Soil Ecology** — The Land Institute (Jul 2026 – Sept 2026)
 >
-> -Engineered a pre-processing step for root scans to minimize the need for manual human input during pre-RhizoVision editing, successfully streamlining the root scan data extraction process.
+> * Engineered a pre-processing step for root scans to minimize the need for manual human input during pre-RhizoVision editing, successfully streamlining the root scan data extraction process.
 
 > **Research Assistant & Software Developer - Perennial Legumes** — The Land Institute (Jun 2024 – Sept 2025)
 >
-> -Built and configured a high-performance Ubuntu Server for AI/deep learning research, alongside a Deep Learning Engineer — from hardware procurement to full software setup.
-> -Authored 7+ SOPs meeting US Department of Energy reproducibility standards for federally funded research.
-> -Developed and maintained `pgcconsortium.org` for collaborative data visualization across international research teams.
-> -Built data pipelines bridging LI-COR lab instrumentation with digital research workflows.
+> * Built and configured a high-performance Ubuntu Server for AI/deep learning research, alongside a Deep Learning Engineer — from hardware procurement to full software setup.
+> * Authored 7+ SOPs meeting US Department of Energy reproducibility standards for federally funded research.
+> * Developed and maintained `pgcconsortium.org` for collaborative data visualization across international research teams.
+> * Built data pipelines bridging LI-COR lab instrumentation with digital research workflows.
 
 ```bash
 $ ls ./projects
